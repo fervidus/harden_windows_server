@@ -1,12 +1,12 @@
 {
-  "name": "autostructure-harden_windows_server",
-  "version": "0.1.23",
-  "author": "Autostructure",
+  "name": "fervid-harden_windows_server",
+  "version": "1.0.0",
+  "author": "Fervid",
   "summary": "Hardens Windows Server 2008 R2",
   "license": "Apache-2.0",
-  "source": "https://github.com/autostructure/harden_windows_server",
-  "project_page": "https://github.com/autostructure/harden_windows_server",
-  "issues_url": "https://github.com/autostructure/harden_windows_server",
+  "source": "https://github.com/fervidus/harden_windows_server",
+  "project_page": "https://github.com/fervidus/harden_windows_server",
+  "issues_url": "https://github.com/fervidus/harden_windows_server",
   "dependencies": [
     {
       "name": "puppetlabs/stdlib",
@@ -17,7 +17,7 @@
       "version_requirement": ">=3.1.1 < 4.0.0"
     },
     {
-      "name": "autostructure-auditpol",
+      "name": "fervid-auditpol",
       "version_requirement": ">=1.0.0 < 2.0.0"
     },
     {
